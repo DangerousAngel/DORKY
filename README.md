@@ -2,7 +2,7 @@
 
 > A powerful, zero-friction Google Dork query builder — no syntax knowledge required.
 
-**Built by [DangerousAngel](https://github.com/DangerousAngel/)**
+![DORKY](screenshot.jpg)
 
 ---
 
